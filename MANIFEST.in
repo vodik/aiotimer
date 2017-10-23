@@ -1,0 +1,1 @@
+recursive-include aiotimer *.pyx *.c
