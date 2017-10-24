@@ -50,6 +50,7 @@ setup(
     license="Apache 2",
     url='https://github.com/vodik/aiotimer',
     description='High resoltion timer for asyncio',
+    keywords=['asyncio', 'timer', 'timerfd'],
     long_description=long_description,
     cmdclass = cmdclass,
     ext_modules=ext_modules,
