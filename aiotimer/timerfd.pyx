@@ -4,7 +4,6 @@ import asyncio
 from libc cimport errno
 from libc.stdint cimport uint64_t
 from posix cimport unistd
-from posix.time cimport
 from posix.time cimport clock_gettime, CLOCK_MONOTONIC, timespec
 
 
